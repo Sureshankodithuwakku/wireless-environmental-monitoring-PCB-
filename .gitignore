@@ -1,0 +1,11 @@
+# Altium backup/history files
+**/History/
+**/__Previews/
+**/Project Logs for */
+*.PcbDoc.Zip
+*.SchDoc.Zip
+*.log
+
+# Windows files
+Thumbs.db
+desktop.ini
